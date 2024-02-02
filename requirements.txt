@@ -1,0 +1,10 @@
+fastapi==0.96.0
+deepgram-sdk==2.5.0
+openai==0.27.7
+uvicorn==0.22.0
+python-multipart==0.0.5
+tenacity==8.2.2
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+SQLAlchemy==2.0.18
+pyodbc==4.0.39
